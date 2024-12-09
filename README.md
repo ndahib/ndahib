@@ -1,5 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (ndahib(|nd Li))" title="👋 Hi there! I'm Ndahib"/>](https://raymond.li/)
-
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=ndahib.ndahib&color=00cf00)
 <!--
 **ndahib/ndahib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +45,7 @@ Here are some ideas to get you started:
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-- I am part of the ft_transcendance team, contributing to a collaborative project within the 42 Common Core, where I develop and work with various technologies to build web application!
+- part of the ft_transcendance team, contributing to a collaborative project within the 42 Common Core, where I develop and work with various technologies to build web application!
 ```
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**my portfolio**](portfolio comming soon\) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
